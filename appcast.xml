@@ -23,6 +23,7 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure
         url="https://github.com/sponno/heygopher-desktop/releases/download/v1.0.0/HeyGopher.dmg"
+        sparkle:edSignature="z3EOXVcOPSzHsyFRoH5cw/BGuxgG3KyW8gNszFQ3OsjW913dwbHAr138CXJkvGW6lNHyv48epAyLyhwro9PfAg=="
         length="4026168"
         type="application/octet-stream"
       />
