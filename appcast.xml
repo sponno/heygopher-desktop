@@ -6,6 +6,25 @@
     <description>HeyGopher Desktop Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.1</title>
+      <description><![CDATA[
+        <h2>HeyGopher v1.0.1</h2>
+        <ul>
+          <li>Auto move to Applications folder when opened from DMG</li>
+        </ul>
+      ]]></description>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/sponno/heygopher-desktop/releases/download/v1.0.1/HeyGopher.dmg"
+        sparkle:edSignature="pBuEcOao7iGLIupwBTwGmw8xTHyhCTqk3kt+m5iGSRrK6blUT+bgXIsZ6Vmq3lwMjTmLYcwZ4esvAWG9+KmrBw=="
+        length="5071610"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.0.0</title>
       <description><![CDATA[
         <h2>HeyGopher v1.0.0</h2>
