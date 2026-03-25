@@ -2,6 +2,10 @@
 
 The macOS companion app for [HeyGopher.ai](https://heygopher.ai) — a time-awareness tool that helps you understand how you spend your day on your computer.
 
+![HeyGopher Timeline](screenshot-timeline.png)
+
+![HeyGopher Menu Bar](screenshot-menubar.png)
+
 ## What is HeyGopher?
 
 HeyGopher automatically tracks which applications and websites you use throughout the day and presents that data as a visual timeline. It's not about productivity guilt or micromanagement — it's about giving you an honest, effortless picture of where your time actually goes.
