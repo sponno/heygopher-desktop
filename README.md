@@ -94,3 +94,11 @@ Together, these mean you can download and open HeyGopher without seeing the "uni
 HeyGopher includes automatic update checking via [Sparkle](https://sparkle-project.org/). When a new version is available, you'll be prompted to update directly from the app. You can also check manually from the menu bar: **Check for Updates...**
 
 All updates are cryptographically signed to ensure they haven't been tampered with.
+
+## Roadmap
+
+HeyGopher Desktop is currently at **v1.0** — the foundation is in place with automatic tracking, a local timeline, cloud sync, and auto-updates.
+
+**Up next:**
+
+- **Advanced privacy controls** — We're building a much deeper level of custom filtering so you have full control over what gets tracked and what doesn't. This will include the ability to exclude specific apps, websites, or URL patterns from recording entirely, set per-app rules for title redaction, and define your own privacy rules beyond the built-in private browsing detection. The goal is to make sure you're always comfortable with exactly what HeyGopher sees and stores.
