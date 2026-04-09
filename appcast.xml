@@ -6,6 +6,25 @@
     <description>HeyGopher Desktop Updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.4</title>
+      <description><![CDATA[
+        <h2>HeyGopher v1.0.4</h2>
+        <ul>
+          <li>Fixed issues from Seb</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/sponno/heygopher-desktop/releases/download/v1.0.4/HeyGopher.dmg"
+        sparkle:edSignature="j0btlLvCTTV8uPBY7683ZgxT2LX99hZLdeLOfzlOD112OGwh9sufokz5OQO5BN03AGFIx/1SNi2AGHmkSu6BAg=="
+        length="4613172"
+        type="application/octet-stream"
+      />
+    </item>
+    <item>
       <title>Version 1.0.3</title>
       <description><![CDATA[
         <h2>HeyGopher v1.0.3</h2>
